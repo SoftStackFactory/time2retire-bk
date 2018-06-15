@@ -48,7 +48,7 @@
     "public": true
   },
   "charts": {
-    "dataSource": "db",
+    "dataSource": "mongo",
     "public": true
   }
 }
